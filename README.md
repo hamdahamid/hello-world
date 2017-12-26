@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+hi everyone!
+i am hamdah hamid, i am software engineer student.
+i love to do programming.
